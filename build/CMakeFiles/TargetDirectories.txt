@@ -1,0 +1,6 @@
+/home/adif/DeepTextSpotter/build/CMakeFiles/rebuild_cache.dir
+/home/adif/DeepTextSpotter/build/CMakeFiles/edit_cache.dir
+/home/adif/DeepTextSpotter/build/src/CMakeFiles/edit_cache.dir
+/home/adif/DeepTextSpotter/build/src/CMakeFiles/rebuild_cache.dir
+/home/adif/DeepTextSpotter/build/src/CMakeFiles/trie_py.dir
+/home/adif/DeepTextSpotter/build/src/CMakeFiles/cmp_trie.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../bin/libtrie_py.a  CMakeFiles/trie_py.dir/trie.cpp.o
+/usr/bin/ranlib ../bin/libtrie_py.a
